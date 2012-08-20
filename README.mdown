@@ -2,12 +2,16 @@ It's mockup application written on Sinatra.
 
 ## Instructions
 
-### Prepare
-git clone github.com:nlevchuk/mockup_sinatra_app.git
-bundle install
+ Prepare:
 
-### Run Sinatra 
-shotgun
+  git clone github.com:nlevchuk/mockup_sinatra_app.git
 
-### Go to browser and enter:
-http://localhost:9393/
+  bundle install
+
+ Run Sinatra:
+
+  shotgun
+
+ Go to browser and enter:
+
+  http://localhost:9393/
